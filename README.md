@@ -1,1 +1,1 @@
-# soa11-mds-dmls
+# oracle-soa-mds-scripts
