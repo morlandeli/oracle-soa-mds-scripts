@@ -1,0 +1,9 @@
+--------------------------------------------
+--Grants necessários para o owner SOAINFRA
+--------------------------------------------
+
+-- Aumentar/recriar os redologs para 250Mb
+
+GRANT ALTER SESSION TO  ONWER_SOAINFRA;
+GRANT EXECUTE ON DBMS_LOCK TO ONWER_SOAINFRA;
+GRANT CREATE ANY JOB TO ONWER_SOAINFRA; 
